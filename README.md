@@ -38,3 +38,14 @@ Randlib library for generation of random numbers for MCMC algorithm.
 
 Chain_diagnostics.R
 R script for plotting the outputted MCMC chains from C++. 
+
+Stri_IPP_IgG_dil.txt
+RBD_IPP_IgG_dil.txt
+S1RBD_NA_IgG_dil.txt
+S1_NA_IgG_dil.txt
+S2_NA_IgG_dil.txt
+NP_IPP_IgG_dil.txt
+NP_NA_IgG_dil.txt
+Input files for C++ statistical inference. Note that these files were genereated by prcoessing SARS-CoV-2_serology.csv.
+
+
